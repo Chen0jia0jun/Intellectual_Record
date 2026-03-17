@@ -2,15 +2,19 @@
   "string": [
     {
       "name": "module_desc",
-      "value": "module description"
+      "value": "体重管理应用程序"
     },
     {
       "name": "EntryAbility_desc",
-      "value": "description"
+      "value": "体重管理应用入口"
     },
     {
       "name": "EntryAbility_label",
-      "value": "label"
+      "value": "体重管理"
+    },
+    {
+      "name": "reminder_permission_reason",
+      "value": "用于每日体重记录提醒功能"
     }
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd /c \"hvigorw.bat build -t compile -p product=default\")",
+      "Bash(powershell -Command:*)",
+      "Bash(cmd /c:*)",
+      "Bash(git -C \"C:/Users/Redmi/Desktop/Intellectual_Record\" diff:*)",
+      "Bash(git -C \"C:/Users/Redmi/Desktop/Intellectual_Record\" diff entry/src/main/ets/viewmodels/SettingsViewModel.ts)",
+      "Bash(git -C \"C:/Users/Redmi/Desktop/Intellectual_Record\" status)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

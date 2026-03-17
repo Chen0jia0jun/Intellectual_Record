@@ -1,5 +1,9 @@
 {
   "src": [
-    "pages/Index"
+    "pages/Welcome",
+    "pages/Index",
+    "pages/Record",
+    "pages/Chart",
+    "pages/Settings"
   ]
 }
